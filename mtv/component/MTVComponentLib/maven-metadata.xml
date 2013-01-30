@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>mtv.component</groupId>
+  <artifactId>MTVComponentLib</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130130064057</lastUpdated>
+  </versioning>
+</metadata>
